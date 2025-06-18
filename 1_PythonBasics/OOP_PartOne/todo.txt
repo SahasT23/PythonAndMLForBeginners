@@ -1,0 +1,5 @@
+1. Add questions folder
+2. Add answers folder
+3. Notebook should be enough, but pdfs can be made.
+4. Gentle intro to OOP, cover the four pillars first. 
+5. create graphs and visual representations. 

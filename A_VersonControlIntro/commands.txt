@@ -1,0 +1,7 @@
+1. basic commands
+2. git clone,
+3. git merge,
+4. git psuh,
+5. git pull, git commit.
+6. git rebase
+7. branches
