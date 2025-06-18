@@ -1,0 +1,6 @@
+1. Explain concurrency.
+2. Explain parallelism. 
+3. compare them.
+4. Introduce distributed systems as a concept.
+5. Intro to petri nets.
+6. Python to C wrappers.
