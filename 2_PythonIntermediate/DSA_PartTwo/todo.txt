@@ -1,0 +1,4 @@
+1. More complex structures (linked lists, sliding windows)
+2. Add questions folder
+3. Add answers folder
+4. Notebook should be enough, but pdfs can be made. 

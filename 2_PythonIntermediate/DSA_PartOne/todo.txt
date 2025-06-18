@@ -1,0 +1,5 @@
+1. Add questions folder
+2. Add answers folder
+3. Notebook should be enough, but pdfs can be made. 
+4. Add basic selection and sort methods.
+5. introduce hash tables etc. 
