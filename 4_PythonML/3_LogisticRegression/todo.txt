@@ -1,0 +1,5 @@
+1. Basic model building.
+2. model fitting methods.
+3. L1 and L2 regularisation methods. 
+4. Overfitting.
+5. Gradient Descent functions (mathematical and python).

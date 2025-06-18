@@ -1,0 +1,4 @@
+1. Explain kernels
+2. optimisations
+3. building models from scratch
+4. python and maths explanation

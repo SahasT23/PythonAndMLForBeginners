@@ -1,0 +1,5 @@
+1. explain NNs
+2. FFNN
+3. CNN
+4. RNN
+5. Build the above models and compare.

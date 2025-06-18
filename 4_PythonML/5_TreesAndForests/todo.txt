@@ -1,0 +1,6 @@
+1. KNN,
+2. K-means
+3. Clustering
+4. Model comparison
+5. trees
+6. random forests implementations
